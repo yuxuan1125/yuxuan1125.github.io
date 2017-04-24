@@ -1,0 +1,12 @@
+.titleClass,.titleClass2{
+    height: 0.7rem;
+    line-height: 1.5;
+    text-align: center;
+    color: mediumpurple;
+    font-size: 0.4rem;
+}
+
+.titleClass2{
+    height: 1rem;
+}
+
